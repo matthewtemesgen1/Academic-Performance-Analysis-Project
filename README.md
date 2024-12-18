@@ -1,1 +1,3 @@
 # Academic-Performance-Analysis-Project
+
+Conducted an end-to-end data analysis project to identify factors impacting students' academic performance in math, reading, and writing using a publicly available dataset from Kaggle. Standardized and cleaned a dataset of 1,000 records, ensuring column consistency, handling missing data, and validating numerical scores. Visualized score distributions, gender performance differences, and correlations between subject scores using Python libraries (Pandas, Matplotlib, Seaborn). Analyzed relationships between demographic factors (gender, parental education) and student outcomes.
